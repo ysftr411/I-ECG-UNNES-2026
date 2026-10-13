@@ -25,7 +25,7 @@ Sistem mengintegrasikan:
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
 - ✅ Real-time monitoring EKG 360 Hz
 - ✅ Deteksi puncak R otomatis (Pan-Tompkins)
@@ -36,7 +36,7 @@ Sistem mengintegrasikan:
 
 ---
 
-## 🔧 Hardware
+## Hardware
 
 | Komponen | Spesifikasi |
 |----------|-------------|
@@ -47,7 +47,7 @@ Sistem mengintegrasikan:
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Instalasi
 
