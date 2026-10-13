@@ -1,0 +1,94 @@
+# ═══════════════════════════════════════════════
+# PYTHON
+# ═══════════════════════════════════════════════
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.ENV/
+
+# ═══════════════════════════════════════════════
+# VSCode
+# ═══════════════════════════════════════════════
+.vscode/
+*.code-workspace
+
+# ═══════════════════════════════════════════════
+# OPERATING SYSTEM
+# ═══════════════════════════════════════════════
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ═══════════════════════════════════════════════
+# DATA & DATASET (jangan upload data besar!)
+# ═══════════════════════════════════════════════
+data/*.csv
+data/*.xlsx
+data/*.dat
+data/*.hea
+data/*.atr
+
+# Kecuali sample kecil
+!data/sample_mitbih_1min.csv
+
+# ═══════════════════════════════════════════════
+# OUTPUT FILES
+# ═══════════════════════════════════════════════
+*.xlsx
+*.xls
+*.log
+*.tmp
+*.bak
+
+# ═══════════════════════════════════════════════
+# SECURITY
+# ═══════════════════════════════════════════════
+.env
+.env.local
+*.pem
+*.key
+secrets.txt
+
+# ═══════════════════════════════════════════════
+# COMPRESSED & MEDIA
+# ═══════════════════════════════════════════════
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.mp4
+*.avi
+*.mov
+*.mp3
+
+# Tapi izinkan gambar di folder images
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
+
+# ═══════════════════════════════════════════════
+# ARDUINO BUILD
+# ═══════════════════════════════════════════════
+build/
+*.hex
+*.elf
+*.bin
