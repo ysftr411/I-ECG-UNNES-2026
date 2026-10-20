@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Deskripsi Proyek
+## Deskripsi
 
 Proyek skripsi S1 Teknik Elektro Universitas Negeri Semarang (UNNES) yang mengembangkan **sistem monitoring elektrokardiogram (EKG) portabel** berbasis **ESP32 + AD8232 + ADS1115** dengan antarmuka Python.
 
@@ -21,22 +21,22 @@ Sistem mengintegrasikan:
 
 **Peneliti:**
 - **Yusuf Toro** (2305100074) — Pan-Tompkins, HRV, XAI
-- **Tya Rizsfa Dhemika** — Prapemrosesan & Denoising
+- **Tya Rizsfa Dhemika** (2305100086) — Prapemrosesan & Denoising
 
 ---
 
-## 🎯 Fitur Utama
+## Fitur Utama
 
-- ✅ Real-time monitoring EKG 360 Hz
-- ✅ Deteksi puncak R otomatis (Pan-Tompkins)
-- ✅ Analisis HRV dual-window (60s & 300s)
-- ✅ Klasifikasi XAI transparan dengan narasi Indonesia
-- ✅ Import dataset CSV/Excel untuk mode playback
-- ✅ Ekspor hasil ke Excel
+- Real-time monitoring EKG 360 Hz
+- Deteksi puncak R otomatis (Pan-Tompkins)
+- Analisis HRV dual-window (60s & 300s)
+- Klasifikasi XAI transparan dengan narasi Indonesia
+- Import dataset CSV/Excel untuk mode playback
+- Ekspor hasil ke Excel
 
 ---
 
-## 🔧 Hardware
+## Hardware
 
 | Komponen | Spesifikasi |
 |----------|-------------|
@@ -47,7 +47,7 @@ Sistem mengintegrasikan:
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Instalasi
 
